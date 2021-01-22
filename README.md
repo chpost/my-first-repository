@@ -1,3 +1,3 @@
 # README #
 
-# New commit message
+This is my first GitHub Repository!
